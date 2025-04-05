@@ -2,9 +2,14 @@ Bu proje, Engin Demiroğ’un Yazılım Geliştirici Yetiştirme Kampı eğitimi
 
 Kullanılan Teknolojiler:
 
-.NET
-ASP.NET Web API
-Entity Framework
-Autofac (IoC Container)
-PostgreSQL / SQL Server
-Katmanlı Mimari (N-Layer Architecture)
+- .NET
+- ASP.NET Web API
+- Entity Framework
+- Autofac (IoC Container)
+- PostgreSQL / SQL Server
+- Katmanlı Mimari (N-Layer Architecture)
+
+
+
+
+
